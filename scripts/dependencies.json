@@ -2038,13 +2038,13 @@
     {
         "version": "18.0.1",
         "dependencies": [
-            "com.google.android.gms:play-services-ads-identifier",
+            "com.google.android.gms:play-services-ads-identifier"
         ]
     },
     {
         "version": "20.6.0",
         "dependencies": [
-            "com.google.android.gms:play-services-ads",
+            "com.google.android.gms:play-services-ads"
         ]
     },
 
