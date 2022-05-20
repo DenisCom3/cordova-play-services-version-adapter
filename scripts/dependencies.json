@@ -1709,6 +1709,7 @@
             "com.google.android.gms:play-services-analytics",
             "com.google.android.gms:play-services-ads-lite",
             "com.google.android.gms:play-services-ads",
+            "com.google.android.gms:play-services-ads-identifier",
             "com.google.firebase:firebase-config",
             "com.google.firebase:firebase-crash",
             "com.google.firebase:firebase-auth",
@@ -2033,6 +2034,19 @@
         "dependencies": [
             "com.google.firebase:firebase-messaging"
         ]
-    }
+    },
+    {
+        "version": "18.0.1",
+        "dependencies": [
+            "com.google.android.gms:play-services-ads-identifier",
+        ]
+    },
+    {
+        "version": "20.6.0",
+        "dependencies": [
+            "com.google.android.gms:play-services-ads",
+        ]
+    },
+
 
 ]
